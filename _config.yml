@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Games:
     - Guild Wars 2: ""
-    - Vermintide 2: "/vermintide"
+    - Vermintide 2: "vermintide"
 
 # --- Logo --- #
 
@@ -28,7 +28,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/assets/img/avatar-icon.png"
+title-img: "/assets/img/avatar-icon.pngs"
 
 
 # --- Footer options --- #
